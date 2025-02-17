@@ -3,6 +3,7 @@
 <b>
 ```
 # Semester: Fall:2024
+
 # Syllabus:
 1. Informed Search
 2. Local Search
@@ -13,6 +14,5 @@
 7. Decision Tree
 8. Regression
 9. Neural Networks
-
 ```
 </b>

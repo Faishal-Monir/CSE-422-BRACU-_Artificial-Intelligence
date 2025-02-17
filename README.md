@@ -12,7 +12,7 @@
 6. Naive Bayes
 7. Decision Tree
 8. Regression
-9. Neural Network
+9. Neural Networks
 
 ```
 </b>

@@ -1,5 +1,5 @@
 <b><h1>CSE422: Artificial Intelligence </h1></b>
-<i><h4>Note: This is the data AI repository. The Main concepts of ML will be covered in CSE-427 here(<a href="#">Machine Learning!</a>)</h4></i><hr><br>
+<i><h4>Note: This is the  AI repository. The Main concepts of ML will be covered in CSE-427 here(<a href="#">Machine Learning!</a>)</h4></i><hr><br>
 <b>
 ```
 # Semester: Fall:2024
